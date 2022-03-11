@@ -1,1 +1,5 @@
-# Lab_6_Funix_DSP301x
+# testrepo
+
+## Editing the file
+
+It's a markdown file in this repository.
